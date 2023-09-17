@@ -77,4 +77,4 @@ Once the application is running, follow these simple steps to use Contacts-App:
 
 ## Feedback and Support
 
-We value your feedback and are committed to improving Contacts-App. If you encounter any issues, have suggestions, or need assistance, please feel free to reach out to us via (mailto:hsoni6954@gmail.com).
+We value your feedback and are committed to improving Contacts-App. If you encounter any issues, have suggestions, or need assistance, please feel free to reach out to us via [hsoni6954@gmail.com](mailto:email@example.com).
