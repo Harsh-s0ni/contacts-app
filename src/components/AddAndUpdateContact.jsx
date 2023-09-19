@@ -47,7 +47,6 @@ const AddAndUpdateContact = ({ isOpen, onClose, isUpdate, contact }) => {
             Email: "",
           }}
           onSubmit={(values) => {
-            console.log(values)
             isUpdate ? updateContact(values,contact.id) :
             addContact(values)
             }}
